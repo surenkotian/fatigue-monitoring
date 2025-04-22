@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+pandas
+streamlit
+plotly
+matplotlib
+seaborn
+pyyaml
+joblib
+XlsxWriter

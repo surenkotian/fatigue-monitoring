@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Model files and binaries
+*.pkl
+*.exe
+*.spec
+
+# Config
+config.yaml
+
+# Logs
+*.log
+
+# Docker
+*.container
+*.img
